@@ -8,3 +8,13 @@ In 2017, the Data Science Bowl will be a critical milestone in support of the Ca
 Using a data set of thousands of high-resolution lung scans provided by the National Cancer Institute, participants will develop algorithms that accurately determine when lesions in the lungs are cancerous. This will dramatically reduce the false positive rate that plagues the current detection technology, get patients earlier access to life-saving interventions, and give radiologists more time to spend with their patients.
 The script file is uploaded into the root directory while the dataset can be downloaed online from the following link at kaggle.
 https://www.kaggle.com/c/data-science-bowl-2017/data
+
+
+1.Handling Data
+The data consists of many 2D "slices," and we have got CT scans of about 1500 patients and also we have another file contains the labels for this data.
+
+2.Preprocess the Data
+
+3. TensorFlow based 3D CNN
+
+4. t-SNE
